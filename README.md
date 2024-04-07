@@ -22,6 +22,7 @@ The scraper enables you to gather information such as business names, addresses,
 2. Set up the Python environment:    
     python -m venv venv
 source venv/bin/activate  # Activate virtual environment
+
 3.Install required Python libraries:
   pip install -r requirements.txt
    FOR-

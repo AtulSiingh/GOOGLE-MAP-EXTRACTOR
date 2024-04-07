@@ -26,8 +26,10 @@ source venv/bin/activate  # Activate virtual environment
   pip install -r requirements.txt
    FOR-
 Generate Queries
+
 Prepare a list of search queries and add them to the config.py file under the keywords field. Each query will be used to search for relevant results on Google Maps.
-4.Run the Scraper
+
+4. Run the Scraper
 Execute the scraper script:
 python main.py
 Avoid running more than 5 scrapers simultaneously if your system has limited resources (RAM < 8GB, i5 processor).

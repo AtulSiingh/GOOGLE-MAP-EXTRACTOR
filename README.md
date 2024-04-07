@@ -1,7 +1,7 @@
 # Google Maps Scraper
 
 This project is a web scraping tool developed with Selenium to extract data from Google Maps. It was created as part of my undergraduate studies for my final year project.
-
+orginal made by  https://github.com/omkarcloud/google-maps-scraper.git.
 ## Overview
 
 The scraper enables you to gather information such as business names, addresses, ratings, reviews, and more from Google Maps based on specified search queries.
@@ -17,7 +17,7 @@ The scraper enables you to gather information such as business names, addresses,
 1. Clone the repository:
 
  
-   git clone https://github.com/omkarcloud/google-maps-scraper.git
+   git clone https://github.com/AtulSiingh/GOOGLE-MAP-EXTRACTOR
    cd google-maps-scraper
 2. Set up the Python environment:    
     python -m venv venv
